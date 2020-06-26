@@ -1,0 +1,24 @@
+com/sergey/service/DataRepository.java
+ com.sergey.service.DataRepository
+com/sergey/service/FileWorkerForTask.java
+ com.sergey.service.FileWorkerForTask
+com/sergey/pojo/Folding.java
+ com.sergey.pojo.Folding
+com/sergey/pojo/Speedelec.java
+ com.sergey.pojo.Speedelec
+com/sergey/pojo/DataTemplates.java
+ com.sergey.pojo.DataTemplates
+com/sergey/checking/CheckingCorrectTemplates.java
+ com.sergey.checking.CheckingCorrectTemplates
+com/sergey/Main.java
+ com.sergey.Main
+com/sergey/exception/WrongTemplateException.java
+ com.sergey.exception.WrongTemplateException
+com/sergey/pojo/Bike.java
+ com.sergey.pojo.Bike
+com/sergey/pojo/EBike.java
+ com.sergey.pojo.EBike
+com/sergey/service/ReflectionWorker.java
+ com.sergey.service.ReflectionWorker
+com/sergey/service/TaskDelegator.java
+ com.sergey.service.TaskDelegator
